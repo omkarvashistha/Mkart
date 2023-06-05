@@ -5,9 +5,9 @@ It is an e-commerce MERN full stack application.
 https://mkart1.netlify.app
 
 # Features
-• View Products and product details,Add to Cart, Add Reviews for products, Login and Sign up.
-• Monolith Arcitecture.
-• Responsive UI.
+• View Products and product details,Add to Cart, Add Reviews for products, Login and Sign up.  
+• Monolith Arcitecture.  
+• Responsive UI.  
 
 # Technologies Used
 1 - ReactJS
