@@ -10,8 +10,8 @@ https://mkart1.netlify.app
 • Responsive UI.  
 
 # Technologies Used
-1 - ReactJS
-2 - ExpressJs
-3 - NodeJs
-4 - MongoDB
-5 - Redux
+1 - ReactJS  
+2 - ExpressJs  
+3 - NodeJs  
+4 - MongoDB  
+5 - Redux  
